@@ -3,7 +3,7 @@
     "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "2.11.1",
-    "name": "My Site",
+    "name": "Urban Agriculture",
     "theme": {
       "name": "default",
       "title": "Mobirise"
@@ -11,7 +11,8 @@
     "publishType": "local",
     "publishGDriveLocation": "",
     "publishGDrivePath": "",
-    "publishPath": "file:///Users/mariahcoley/Desktop"
+    "publishPath": "file:///Users/mariahcoley/Desktop",
+    "favicon": ""
   },
   "pages": {
     "index.html": {
@@ -107,9 +108,10 @@
         }
       ]
     },
-    "urbanagriculture.html": {
+    "ua-index.html": {
       "settings": {
-        "title": "UC Stories: Urban Agriculture"
+        "title": "UC Stories: Urban Agriculture",
+        "meta_descr": ""
       },
       "components": [
         {
@@ -119,60 +121,128 @@
             "paddingBottom": 3,
             "images": [
               {
-                "caption": "UC Agriculture and Natural Resources (UC ANR) has a <a href=\"http://mg.ucanr.edu\" target=\"_blank\">Master Gardener Program </a>which works to advise and support small-scale community farmers and gardeners.",
-                "thumb": "@PROJECT_PATH@/assets/images/img-3-300x300-300x300-68-300x300-17.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-3-300x300-300x300-68.jpg",
-                "active": true
-              },
-              {
-                "caption": "Type caption here",
+                "caption": "<a href=\"http://edibleschoolyard.org\" target=\"_blank\" class=\"text-success\">Edible Education,</a> based at UC Berkeley,is a community and undergraduate seminar course featuring sustainable food system guest speakers.",
                 "thumb": "@PROJECT_PATH@/assets/images/img-1-300x300-676x551-78-676x551-31.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-1-300x300-676x551-78.jpg",
                 "active": false
               },
               {
-                "caption": "Type caption here",
+                "caption": "UC Berkeley <a href=\"http://gilltractfarm.wordpress.com\" target=\"_blank\" class=\"text-success\">Gill Tract Community Farm</a> is a cooperatively run urban farm open to students, professors, and community members.",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2-300x300-300x300-45-300x300-34.png",
                 "image": "@PROJECT_PATH@/assets/images/img-2-300x300-300x300-45.png",
                 "active": false
               },
               {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-6-300x300-300x300-2-300x300-25.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-6-300x300-300x300-2.jpg",
-                "active": false
+                "caption": "UC Agriculture and Natural Resources (UC ANR) has a <a href=\"http://mg.ucanr.edu\" target=\"_blank\" class=\"text-success\">Master Gardener Program</a> which advises and supports small-scale community farmers and gardeners.",
+                "thumb": "@PROJECT_PATH@/assets/images/img-3-300x300-300x300-14-300x300-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-3-300x300-300x300-14.jpg",
+                "active": true
               },
               {
-                "caption": "Type caption here",
+                "caption": "UC Berkeley <a href=\"http://berksoga.tumblr.com\" target=\"_blank\" class=\"text-success\">Student Organic Garden Association</a> (SOGA) is a student-run, open-to-the-public urban vegetable garden.&nbsp;",
                 "thumb": "@PROJECT_PATH@/assets/images/img-4-300x300-300x300-83-300x300-66.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-4-300x300-300x300-83.jpg",
                 "active": false
               },
               {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7-300x300-2448x2316-22-2000x1892-68.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-7-300x300-2448x2316-22.jpg",
+                "caption": "The <a href=\"http://sfp.ucdavis.edu\" target=\"_blank\" class=\"text-success\">UC Small Farms Program</a> encompasses research, advising, and workshops to assist urban, peri-urban, and rural small-scale farmers in California.",
+                "thumb": "@PROJECT_PATH@/assets/images/small-farm-300x300-best-one-300x300-80-300x300-73.png",
+                "image": "@PROJECT_PATH@/assets/images/small-farm-300x300-best-one-300x300-80.png",
                 "active": false
               },
               {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-8-300x300-300x300-1-300x300-85.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-8-300x300-300x300-1.jpg",
+                "caption": "UC CalFresh and Cooperative Extension's <a href=\"http://http://ucanr.edu/delivers/?impact=981&amp;a=0\" target=\"_blank\" class=\"text-success\">revitalization of school gardens in Alameda </a>supplies educators and supplies to bring urban agriculture opportunities to children.",
+                "thumb": "@PROJECT_PATH@/assets/images/img-6-300x300-300x300-80-300x300-74.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-6-300x300-300x300-80.jpg",
                 "active": false
               },
               {
-                "caption": "Type caption here",
-                "thumb": "@PROJECT_PATH@/assets/images/img-9-300x300-612x662-30-612x662-73.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img-9-300x300-612x662-30.jpg",
+                "caption": "UC Cooperative Extension developed an efficient system for <a href=\"http://ucanr.edu/delivers/?impact=948&amp;a=0\" target=\"_blank\" class=\"text-success\">documenting UA yields</a> to better assess how much financial savings is occurring.",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7-300x300-2448x2316-99-2000x1892-98.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7-300x300-2448x2316-99.jpg",
+                "active": false
+              },
+              {
+                "caption": "UC Berkeley’s  Patricia Algara helped create a community garden and farmer’s market “starter guide”  to help community members begin urban agriculture. <a href=\"http://food.berkeley.edu/wp-content/uploads/2015/06/leveraging-research-for-food-and-agriculture-policy.pdf#page=39\" target=\"_blank\" class=\"text-success\">More found here</a>.",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8-300x300-300x300-38-300x300-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8-300x300-300x300-38.jpg",
                 "active": false
               }
             ],
             "showText": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "fullWidth": false,
-            "noGutter": true
+            "noGutter": false
           },
           "_anchor": "gallery1-3",
+          "articleLayout": false,
+          "_styles": {
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "images": [
+              {
+                "caption": "UC ANR has a <a href=\"http://ucanr.edu/sites/UrbanAg/Starting_an_Urban_Farm/\" target=\"_blank\" class=\"text-success\">website dedicated to advising individuals</a>&nbsp;getting started in urban farming.",
+                "thumb": "@PROJECT_PATH@/assets/images/img-9-300x300-612x662-1-612x662-31.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-9-300x300-612x662-1.jpg",
+                "active": false
+              },
+              {
+                "caption": "UC Los Angeles’ interactive website <a href=\"http://cultivatelosangeles.org\" target=\"_blank\" class=\"text-success\">Cultivate LA</a> was created to better assess the state of urban agriculture in Los Angeles.",
+                "thumb": "@PROJECT_PATH@/assets/images/img-10-300x300-300x300-67-300x300-36.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-10-300x300-300x300-67.jpg",
+                "active": false
+              },
+              {
+                "caption": "UC ANR works in collaboration with researchers at UC Davis and local non-profits in Sacramento to build raised beds to overall better assess the safety for urban gardens throughout the city. <a href=\"http://food.berkeley.edu/wp-content/uploads/2015/06/leveraging-research-for-food-and-agriculture-policy.pdf#page=20\" target=\"_blank\" class=\"text-success\">More information here.</a>",
+                "thumb": "@PROJECT_PATH@/assets/images/img-11-300x300-300x300-21-300x300-97.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-11-300x300-300x300-21.jpg",
+                "active": false
+              },
+              {
+                "caption": "UC Davis <a href=\"http://asi.ucdavis.edu/programs/sf/children-and-youth/school-gardening-program\" target=\"_blank\" class=\"text-success\">Student Farm School Garden Program</a> helps connect students to the earth.",
+                "thumb": "@PROJECT_PATH@/assets/images/img-27-300x300-300x300-56-300x300-22.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-27-300x300-300x300-56.jpg",
+                "active": false
+              },
+              {
+                "caption": "UC Davis’ <a href=\"http://ccuh.ucdavis.edu/\" target=\"_blank\" class=\"text-success\">Center for Urban Horticulture</a> is home to resources assisting small scale produce farmers.&nbsp;",
+                "thumb": "@PROJECT_PATH@/assets/images/img-12-300x300-300x300-14-300x300-65.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-12-300x300-300x300-14.jpg",
+                "active": true
+              },
+              {
+                "caption": "UC ANR <a href=\"http://ucanr.edu/blogs/UrbanAg/\" target=\"_blank\" class=\"text-success\">UA blog</a> features the latest California urban agriculture news.",
+                "thumb": "@PROJECT_PATH@/assets/images/img-14-300x300-300x300-67-300x300-56.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-14-300x300-300x300-67.jpg",
+                "active": false
+              },
+              {
+                "caption": "Rose Hayden-Smith focuses her work on reporting and writing about youth and community gardening education.",
+                "thumb": "@PROJECT_PATH@/assets/images/img-15-300x300-300x300-22-300x300-69.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-15-300x300-300x300-22.jpg",
+                "active": false
+              },
+              {
+                "caption": "Land access is a significant challenge for many urban farmers. The UC Gill Tract Community Farm is one such example. The film, <a href=\"http://occupythefarmfilm.com\" target=\"_blank\" class=\"text-success\">Occupy the Farm</a> documents the struggle from the farmers’ side. While <a href=\"http://news.berkeley.edu/2012/04/27/uc-berkeley-issues-open-letter-concerning-occupy-the-farm/\" target=\"_blank\" class=\"text-success\">this article </a>expresses some of the UC’s side of the disagreement. Today, the future of the farm is explained at the <a href=\"http://occupythefarm.org/frequently-asked-questions/\" target=\"_blank\" class=\"text-success\">Occupy the Farm website</a>.",
+                "thumb": "@PROJECT_PATH@/assets/images/img-28-300x300-300x300-72-300x300-78.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-28-300x300-300x300-72.jpg",
+                "active": false
+              }
+            ],
+            "showText": true,
+            "bgColor": "#ffffff",
+            "fullWidth": false,
+            "noGutter": false
+          },
+          "_anchor": "gallery1-4",
           "articleLayout": false
         }
       ]
